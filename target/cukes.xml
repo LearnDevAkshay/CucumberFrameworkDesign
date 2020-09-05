@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="5.850768">
+    <testcase classname="Search and place order for vegitable" name="Serach for vegatble and validate" time="5.850768">
+        <system-out><![CDATA[Given User is on home page..................................................passed
+When User enter the "Cucumber" in search box................................passed
+Then "Cucumber" result should be dispalyed..................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
