@@ -23,6 +23,8 @@ public class MystepDefination {
 		driver = new ChromeDriver(options);
 		driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
 		System.out.println("Sample Update");
+		System.out.println("Architect Update");
+		System.out.println("Architect Update");
 		
 
 	}
